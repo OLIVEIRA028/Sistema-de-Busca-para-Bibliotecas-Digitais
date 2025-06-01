@@ -43,6 +43,8 @@ O sistema conta com várias funcionalidades pensadas para facilitar o uso e o ge
 
 Esse arquivo é a interface principal do sistema — é onde o menu é exibido, o usuário escolhe uma opção, e a função correta é chamada.
 
+![Menu](assets/Menu.png)
+
 ```python
 from catalogo import listar_livros, cadastrar_livro
 from busca import buscar_por_titulo
@@ -126,6 +128,8 @@ Chamada final menu(): inicia o programa.
 
 Esse módulo é responsável por buscar livros pelo título.
 
+![Busca](assets/Buscando por titulo.png)
+
 ```python
 
 from dados import livros
@@ -150,6 +154,10 @@ Caso não encontre, retorna None.
 # catalogo.py
 
 Módulo para listar os livros cadastrados e cadastrar novos livros.
+
+![Listando Livros](assets/listando livro.png)
+
+![Cadastro](assets/cadastro de livro.png)
 
 ```python
 
@@ -186,6 +194,8 @@ Confirma o cadastro.
 # ordenacao.py
 
 Módulo para ordenar os livros usando QuickSort pelo título.
+
+![Ordenação](assets/Ordenando.png)
 
 ```python
 
