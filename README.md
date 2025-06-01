@@ -105,6 +105,8 @@ def menu():
 
 menu()
 
+```
+
 O que cada parte faz?
 
 Importações: Importa funções específicas dos módulos catalogo, busca e ordenacao.
@@ -134,6 +136,7 @@ def buscar_por_titulo(titulo_busca):
             return livro
     return None
 
+```
 
 O que ele faz?
 
@@ -165,6 +168,8 @@ def cadastrar_livro():
     ano = int(input("Ano: "))
     livros.append({"titulo": titulo, "autor": autor, "ano": ano})
     print("Livro cadastrado com sucesso!")
+
+```
 
 O que faz?
 
@@ -200,6 +205,8 @@ def ordenar_por_titulo():
     ordenados = quicksort(livros, "titulo")
     for i, livro in enumerate(ordenados, 1):
         print(f"{i}. {livro['titulo']} - {livro['autor']} ({livro['ano']})")
+
+```
 
 Explicação:
 
@@ -261,6 +268,8 @@ livros = [
     {"titulo": "The Outsiders", "autor": "S. E. Hinton", "ano": 2020},
     {"titulo": "SuperNormal", "autor": "Greg James", "ano": 2020}
 ]
+
+```
 
 O que é?
 
