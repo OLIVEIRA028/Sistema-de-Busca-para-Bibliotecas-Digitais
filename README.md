@@ -1,6 +1,13 @@
-# Sistema-de-Busca-para-Bibliotecas-Digitais
+# Sistema de Busca para Bibliotecas Digitais
 Projeto da disciplina de Estrutura de Dados I, com foco na implementação de um sistema de busca para bibliotecas digitais e repositórios acadêmicos, utilizando listas, dicionários, busca linear e ordenação com Quick Sort, organizados em módulos separados.
 
+Integrantes: 
+1. Aluno: João Paulo De Oliveira Vaz Santos Antão Abbade Thomaz Vilella Paiva
+    RGM: 37903985
+2. Aluno: Danilo Hellu Santos Ramos
+    RGM: 38294605
+
+    
 # 🎯 Objetivo Geral
 
 O objetivo deste projeto é criar um sistema de gerenciamento de catálogo de livros 📚 usando Python, focando na aplicação prática de estruturas de dados e algoritmos fundamentais 🔍⚙️.
