@@ -13,3 +13,5 @@ def cadastrar_livro():
     ano = int(input("Ano: "))
     livros.append({"titulo": titulo, "autor": autor, "ano": ano})
     print("Livro cadastrado com sucesso!")
+
+#
