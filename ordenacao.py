@@ -14,3 +14,5 @@ def ordenar_por_titulo():
     ordenados = quicksort(livros, "titulo")
     for i, livro in enumerate(ordenados, 1):
         print(f"{i}. {livro['titulo']} - {livro['autor']} ({livro['ano']})")
+
+#
