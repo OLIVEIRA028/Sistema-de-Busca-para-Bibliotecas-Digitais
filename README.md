@@ -7,7 +7,10 @@ Integrantes:
 2. Aluno: Danilo Hellu Santos Ramos
     RGM: 38294605
 
-    
+3. Aluno: Victor Hugo Valadares Mendonça
+   RGM:39423026
+
+   
 # 🎯 Objetivo Geral
 
 O objetivo deste projeto é criar um sistema de gerenciamento de catálogo de livros 📚 usando Python, focando na aplicação prática de estruturas de dados e algoritmos fundamentais 🔍⚙️.
