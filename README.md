@@ -7,8 +7,7 @@ Integrantes:
 2. Aluno: Victor Hugo Valadares Mendonça
    RGM:39423026
 3. Aluno: Danilo Hellu Santos Ramos
-    RGM: 38294605Aluno: Victor Hugo Valadares Mendonça
-   RGM:39423026
+    RGM: 38294605
 
    
 # 🎯 Objetivo Geral
