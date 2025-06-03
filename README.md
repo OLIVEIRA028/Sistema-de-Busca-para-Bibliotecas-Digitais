@@ -4,10 +4,10 @@ Projeto da disciplina de Estrutura de Dados I, com foco na implementação de um
 Integrantes: 
 1. Aluno: João Paulo De Oliveira Vaz Santos Antão Abbade Thomaz Vilella Paiva
     RGM: 37903985
-2. Aluno: Danilo Hellu Santos Ramos
-    RGM: 38294605
-
-3. Aluno: Victor Hugo Valadares Mendonça
+2. Aluno: Victor Hugo Valadares Mendonça
+   RGM:39423026
+3. Aluno: Danilo Hellu Santos Ramos
+    RGM: 38294605Aluno: Victor Hugo Valadares Mendonça
    RGM:39423026
 
    
